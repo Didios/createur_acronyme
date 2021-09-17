@@ -1,0 +1,13 @@
+D:\Computer\activite\projet C#\createur_acronyme\bin\Debug\netcoreapp3.1\createur_acronyme.exe
+D:\Computer\activite\projet C#\createur_acronyme\bin\Debug\netcoreapp3.1\createur_acronyme.deps.json
+D:\Computer\activite\projet C#\createur_acronyme\bin\Debug\netcoreapp3.1\createur_acronyme.runtimeconfig.json
+D:\Computer\activite\projet C#\createur_acronyme\bin\Debug\netcoreapp3.1\createur_acronyme.runtimeconfig.dev.json
+D:\Computer\activite\projet C#\createur_acronyme\bin\Debug\netcoreapp3.1\createur_acronyme.dll
+D:\Computer\activite\projet C#\createur_acronyme\bin\Debug\netcoreapp3.1\createur_acronyme.pdb
+D:\Computer\activite\projet C#\createur_acronyme\obj\Debug\netcoreapp3.1\createur_acronyme.csproj.AssemblyReference.cache
+D:\Computer\activite\projet C#\createur_acronyme\obj\Debug\netcoreapp3.1\createur_acronyme.AssemblyInfoInputs.cache
+D:\Computer\activite\projet C#\createur_acronyme\obj\Debug\netcoreapp3.1\createur_acronyme.AssemblyInfo.cs
+D:\Computer\activite\projet C#\createur_acronyme\obj\Debug\netcoreapp3.1\createur_acronyme.csproj.CoreCompileInputs.cache
+D:\Computer\activite\projet C#\createur_acronyme\obj\Debug\netcoreapp3.1\createur_acronyme.dll
+D:\Computer\activite\projet C#\createur_acronyme\obj\Debug\netcoreapp3.1\createur_acronyme.pdb
+D:\Computer\activite\projet C#\createur_acronyme\obj\Debug\netcoreapp3.1\createur_acronyme.genruntimeconfig.cache
